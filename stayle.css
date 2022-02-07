@@ -208,3 +208,9 @@ li {
     }
 }
 
+@media screen and (max-width: 320px) {
+    .heading{
+        font-size: 2em;
+    }
+}
+
