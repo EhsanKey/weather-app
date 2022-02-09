@@ -111,7 +111,7 @@ li {
     position: relative;
     padding: 40px 10%;
     border-radius: 20px;
-    background: var(--text_light);
+    background: white;
     color: var(--text_med);
 }
 
